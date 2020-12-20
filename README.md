@@ -7,9 +7,9 @@
 ## My Stat's
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanjila_shamima)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimamulhassankhan&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=mimamulhassankhan&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=TanjilaShamima&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 
 ## Short description
 - 🔭 I’m Owner & Co-Founder of - Xenon Solutions Ltd. 
