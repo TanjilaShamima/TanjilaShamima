@@ -12,8 +12,7 @@
 [![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=TanjilaShamima&count_private=true&include_all_commits=true&theme=onedark)](https://google.com)
 
 ## Short description
-- 🔭 I’m Owner & Co-Founder of - Xenon Solutions Ltd. 
-- 🌱 I’m currently learning - C# Advanced
+- 🌱 I’m currently learning - Node.js Advanced
 - 👯 I’m looking to collaborate with - ❔❔❔❔
 - 💬 Ask me about - ❔❔❔❔
 - 🥅 2020 Goal - ❔❔❔❔
@@ -26,6 +25,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
-[website]: https://imamulhassankhan.azurewebsites.net/
-[twitter]: https://twitter.com/indrajeet_nikam
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
+[website]: https://tanjilashamima.com
+[twitter]: itter.com/shamima_tanjila
+[linkedin]: https://www.linkedin.com/in/tanjila-shamima-b932bb1a5/
