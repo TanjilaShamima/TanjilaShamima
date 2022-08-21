@@ -1,6 +1,6 @@
 ## Hi, I'm Tanjila Akter Shamima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fshamima_tanjila)](https://twitter.com/intent/tweet?text=Wow)</br>
-[![Linkedin](https://https://img.shields.io/twitter/url?color=Linkdein&label=Linkdein&logo=Linkedin&style=social&url=https%3A%2F%2Ftanjila-shamima-b932bb1a5%2F)](https://www.linkedin.com/in/tanjila-shamima-b932bb1a5/)</br>
+[![Linkedin](https://https://img.shields.io/linkedin/url?color=Linkdein&label=Linkdein&logo=Linkedin&style=social&url=https%3A%2F%2Ftanjila-shamima-b932bb1a5%2F)](https://www.linkedin.com/in/tanjila-shamima-b932bb1a5/)</br>
 
 
 <strong style="text-align: justify;">
