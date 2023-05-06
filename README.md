@@ -4,7 +4,7 @@
 
 
 <strong style="text-align: justify;">
-  A dedicated and hardworking individual with a Bachelor's degree in Computer Science and work experience of 3 years. Being well aware of the challenges and demands of this ever-evolving sector, I am offering my efficient and diligent services to fulfill the requirements of the IT industry. I aim at keeping myself up-to-date with the on-going developments in this field. Therefore, through my growing knowledge as well as sharp focus, I intend to successfully achieve my career goals. Expert in React.js, Node.js, Express, MongoDB, Firebase, Redux.
+A skilled and experienced Front-end Developer with expertise in React JS, Next JS, Node JS, Express JS, Typescript  and Web API. With a keen eye for detail and a problem-solving mindset, I have hands-on experience in all levels of testing. I am also proficient in analyzing and designing database structures, making her a well-rounded developer. I have participated in programming contests and has achieved 2nd Runner Up in DIU Intra University Girls Programming Contest. With several projects under I belt, including a Smart Hospital Management System and an Online Restaurant Application, I am a driven professional who strives to build highly responsive and user-friendly web applications. Contact her today to see how she can help bring your project to life!
 </strong> 
 
 ## My Stat's
