@@ -24,6 +24,6 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 - ⚡ Fun Fact: I enjoy solving puzzles and playing chess in my free time.
 
 ## Connect with Me
-[<img align="left" alt="tanjilashamima.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tanjilashamima.com)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="tanjilashamima.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://tanjila-shamima.web.app/)
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://tanjila-shamima.web.app/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://tanjila-shamima.web.app/)
