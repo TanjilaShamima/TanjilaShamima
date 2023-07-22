@@ -22,6 +22,7 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 - ⚡ Fun Fact: I enjoy solving puzzles and playing chess in my free time.
 <br />
 <br />
+
 ## My Expertise area
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
