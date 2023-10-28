@@ -75,7 +75,7 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 ## Connect with Me
 Want to discuss a potential project or collaboration? Feel free to reach out to me via:
 - 📧 Email: tanjila.cse.diu@gmail.com
-- 💬 LinkedIn: [Connect me](https://www.linkedin.com/in/tanjila-shamima-b932bb1a5/)
+- 💬 LinkedIn: [Connect me](https://www.linkedin.com/in/tanjila-shamima/)
 - 🐦 Twitter: [Visit Here](https://twitter.com/shamima_tanjila)
 - 🌐 Portfolio: [Read More](https://tanjila-shamima.web.app/)
 - 📞 Phone: +8801997412643
