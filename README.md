@@ -30,8 +30,8 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 ![Next JS](https://img.shields.io/badge/NEXT.js-Expert-blue)
 ![Node JS](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-success)
-![Firebase](https://img.shields.io/badge/Firebase-Basic-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-Basic-orange)
 
 <br />
 <br />
