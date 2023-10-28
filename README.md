@@ -28,10 +28,11 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 ![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
 ![React](https://img.shields.io/badge/React-Advanced-blueviolet)
 ![Next JS](https://img.shields.io/badge/NEXT.js-Expert-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+![Node JS](https://img.shields.io/badge/Node.js-Intermediate-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-success)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
+![Firebase](https://img.shields.io/badge/Firebase-Basic-yellow)
+![MySQL](https://img.shields.io/badge/MySQL-Intermediate-orange)
+
 <br />
 <br />
 
@@ -62,7 +63,7 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 ## 🏆 Achievements
 - 🏆 2nd Runner Up in the DIU Intra University girls Programming Contest.
 - 🏆 6th position in the DIU Intra Math Olympiad.
-- 🗣️ Participated in National Girls Programming Contest.
+- 🗣️ Participated in the National Girls Programming Contest.
 - 🗣️ Participated in ICPC mock contest.
 - 💻 Solved 500+ problems in several online judge platforms like URI, codeforces, UVA, etc.
 <br />
