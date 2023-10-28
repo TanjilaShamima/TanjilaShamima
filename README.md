@@ -1,7 +1,7 @@
 ## Hi, I'm Tanjila Akter Shamima! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fshamima_tanjila)](https://twitter.com/shamima_tanjila)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tanjila-shamima-b932bb1a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tanjila-shamima/)
 [![GitHub](https://img.shields.io/badge/GitHub-lightgrey?logo=github)](https://github.com/TanjilaShamima)
 [![Email](https://img.shields.io/badge/Email-gray?logo=gmail&style=flat-square)](mailto:tanjila.cse.diu@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-TanjilaShamima-blue)](https://tanjila-shamima.web.app/)
