@@ -19,7 +19,7 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 - 👯 I'm looking to collaborate on interesting projects.
 - 💬 Ask me about front-end development and web technologies.
 - 🥅 2023 Goal: Contribute to open-source projects and continue personal growth.
-- ⚡ Fun Fact: I enjoy solving puzzles and playing chess in my free time.
+- ⚡ Fun Fact: I enjoy solving problems in my free time
 <br />
 <br />
 
