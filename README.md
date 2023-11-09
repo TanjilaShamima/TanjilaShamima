@@ -9,7 +9,7 @@
 <strong style="text-align: justify;">
 I'm a skilled and experienced Front-end Developer with expertise in React JS, Next JS, Node JS, Express JS, Typescript, and Web API. With a keen eye for detail and a problem-solving mindset, I have hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testing. I am also proficient in analyzing and designing database structures, making me a well-rounded developer.
 
-I have participated in programming contests and achieved 2nd Runner Up in the DIU Intra University Girls Programming Contest. With several projects under my belt, including a Smart Hospital Management System and an Online Restaurant Application, I am a driven professional who strives to build highly responsive and user-friendly web applications. Contact me today to see how I can help bring your project to life!
+I have participated in programming contests and achieved 2nd Runner-up in the DIU Intra University Girls Programming Contest. With several projects under my belt, including a Smart Hospital Management System and an Online Restaurant Application, I am a driven professional who strives to build highly responsive and user-friendly web applications. Contact me today to see how I can help bring your project to life!
 </strong> 
 <br />
 <br />
@@ -47,7 +47,7 @@ I have participated in programming contests and achieved 2nd Runner Up in the DI
 
 - [BJIt Group](https://www.bjitgroup.com)
   - Software Engineer
-  - Duration: Around 3 years (22nd March - Running)
+  - Duration: Around 3 years (22nd March, 2021 - Running)
   <br />
   <br />
 ## 🚀 My Strengths
