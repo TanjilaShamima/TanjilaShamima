@@ -45,9 +45,14 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 
 ## Working Place
 
+- [Bloclabs](https://www.bjitgroup.com)
+  - Senior Software Engineer
+  - Duration: (16th May 2024 - Running)
+  <br />
+
 - [BJIt Group](https://www.bjitgroup.com)
   - Software Engineer
-  - Duration: Around 3 years (22nd March, 2021 - Running)
+  - Duration: Around 3 years (22nd March, 2021 - 13th May, 2024)
   <br />
   <br />
 ## 🚀 My Strengths
