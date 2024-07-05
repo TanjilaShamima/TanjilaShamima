@@ -18,7 +18,7 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 - 🌱 I'm currently learning Node.js Advanced.
 - 👯 I'm looking to collaborate on interesting projects.
 - 💬 Ask me about front-end development and web technologies.
-- 🥅 2023 Goal: Contribute to open-source projects and continue personal growth.
+- 🥅 2024 Goal: Contribute to open-source projects and continue personal growth.
 - ⚡ Fun Fact: I enjoy solving problems in my free time
 <br />
 <br />
