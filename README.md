@@ -15,7 +15,7 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 <br />
 
 ## Short description
-- 🌱 I'm currently learning Node.js Advanced.
+- 🌱 I'm currently learning Node.js Advanced and Python.
 - 👯 I'm looking to collaborate on interesting projects.
 - 💬 Ask me about front-end development and web technologies.
 - 🥅 2024 Goal: Contribute to open-source projects and continue personal growth.
