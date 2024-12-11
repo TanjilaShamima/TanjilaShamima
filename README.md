@@ -50,6 +50,11 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
   - Duration: (16th May 2024 - Running)
   <br />
 
+- [Cosmos Tech Labs](https://cosmostechlabs.com/)
+  - Senior Software Engineer
+  - Duration: (10th March 2024 - Running)
+  <br />
+
 - [BJIt Group](https://www.bjitgroup.com)
   - Software Engineer
   - Duration: Around 3 years (22nd March, 2021 - 13th May, 2024)
