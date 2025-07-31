@@ -45,15 +45,17 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 
 ## Working Place
 
+- [Cosmos Tech Labs](https://cosmostechlabs.com/)
+  - Senior Software Engineer
+  - Duration: (16th May 2024 - Running)
+  <br />
+
+
 - [Bloclabs](https://bloclabs.com/)
   - Senior Software Engineer
   - Duration: (10th March 2024 - 31st July 2025)
   <br />
 
-- [Cosmos Tech Labs](https://cosmostechlabs.com/)
-  - Senior Software Engineer
-  - Duration: (16th May 2024 - Running)
-  <br />
 
 - [BJIt Group](https://www.bjitgroup.com)
   - Software Engineer
