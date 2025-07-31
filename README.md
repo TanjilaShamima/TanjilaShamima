@@ -47,13 +47,13 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 
 - [Cosmos Tech Labs](https://cosmostechlabs.com/)
   - Senior Software Engineer
-  - Duration: (16th May 2024 - Running)
+  - Duration: (14th May 2024 - Running)
   <br />
 
 
 - [Bloclabs](https://bloclabs.com/)
   - Senior Software Engineer
-  - Duration: (10th March 2024 - 31st July 2025)
+  - Duration: (16th May 2024 - 31st July 2025)
   <br />
 
 
