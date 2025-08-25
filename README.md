@@ -63,8 +63,8 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
   <br />
   <br />
 ## 🚀 My Strengths
-- 👨‍💻 4+ years of experience building scalable web applications using React JS, and Node JS.
-- 🔧 Highly skillful in NEXT JS(popular framework of React JS).
+- 👨‍💻 5+ years of experience building scalable web applications using React JS, and NEXT JS.
+- 🔧 Highly skillful in Node JS, Express JS, Nest JS, MongoDB and PostgreSQL.
 - 🌐 Experienced in designing large-scale web systems.
 - 🤖 Pixel Perfect designing skill and expert in row CSS, SCSS, Bootstrap, Tailwind. 
 - 💡 Strong problem-solving and communication skills.
