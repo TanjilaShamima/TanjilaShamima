@@ -45,9 +45,15 @@ I have participated in programming contests and achieved 2nd Runner-up in the DI
 
 ## Working Place
 
+- [Technovative Solutions Ltd](https://technovativesolutions.co.uk/)
+  - Senior Software Engineer
+  - Duration: (1st December, 2025 - Running)
+  <br />
+
+  
 - [Cosmos Tech Labs](https://cosmostechlabs.com/)
   - Senior Software Engineer
-  - Duration: (14th May 2024 - Running)
+  - Duration: (14th May 2024 - 30th November, 2025)
   <br />
 
 
