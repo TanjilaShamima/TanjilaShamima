@@ -1,36 +1,43 @@
-<div align="center">
+<!-- ===================== HEADER BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:6d28d9,100:ec4899&height=220&section=header&text=Tanjila%20Shamima&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Web%20Engineer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header"/>
+</p>
 
-# Hi, I'm Tanjila Shamima 👋
+<p align="center">
+  <a href="https://github.com/TanjilaShamima">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+Specialist;Building+scalable%2C+production-ready+systems;Node.js+%E2%80%A2+PostgreSQL+%E2%80%A2+AWS;MSc+CSE+%E2%80%A2+Learning+ML+%26+Pattern+Recognition" alt="Typing SVG"/>
+  </a>
+</p>
 
-### Senior Software Engineer | Full-Stack Web Engineer
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanjila-shamima/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://tanjila-shamima.web.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:tanjila.cse.diu@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/shamima_tanjila"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=TanjilaShamima&label=Profile%20Views&color=6d28d9&style=for-the-badge" alt="views"/>
+</p>
 
-**React • Next.js • TypeScript • Node.js • PostgreSQL • AWS**
+---
 
-Building scalable, maintainable and production-ready software systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanjila%20Shamima-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanjila-shamima/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tanjila-shamima.web.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanjila.cse.diu@gmail.com)
-
-</div>
-
-<br />
-
-<img align="right" width="210" alt="Tanjila Shamima" src="https://avatars.githubusercontent.com/u/58725488?v=4" />
-
+<!-- ===================== ABOUT + SKETCH ===================== -->
 ## 👩‍💻 About Me
 
-I'm a **Senior Software Engineer** with **5+ years of professional experience** in the software industry, primarily focused on frontend and full-stack web engineering.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/sketch-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/sketch-light.png">
+  <img align="right" width="260" src="./assets/sketch-light.png" alt="Tanjila Shamima — pencil sketch">
+</picture>
 
-* 💼 Currently working as a **Senior Software Engineer at Technovative Solutions Ltd.**
-* ⚛️ Strong in **React, Next.js, TypeScript, JavaScript and modern frontend architecture**
-* 🔧 Experienced with **Node.js, Express, NestJS, REST APIs, PostgreSQL and MongoDB**
-* ☁️ Hands-on experience with **AWS, Docker, CI/CD, Redis, Nginx and production deployments**
-* 🧩 Interested in **clean architecture, system design, performance optimization and scalable systems**
-* 🎓 Currently pursuing an **MSc in Computer Science & Engineering**
-* 📊 Alongside software engineering, currently learning **Data Science & Machine Learning**
-* 🧠 Working on **Crime Hotspot Detection using Spatio-Temporal Pattern Recognition**
-* 🤖 Exploring practical use of **AI agents and automation** in software engineering workflows
+I'm a **Senior Software Engineer** with **5+ years** of professional experience, focused on frontend and full-stack web engineering.
+
+- 💼 Senior Software Engineer at **Technovative Solutions Ltd.**
+- ⚛️ Strong in **React, Next.js, TypeScript** & modern frontend architecture
+- 🔧 **Node.js, Express, NestJS, REST APIs, PostgreSQL, MongoDB**
+- ☁️ **AWS, Docker, CI/CD, Redis, Nginx** & production deployments
+- 🧩 Into **clean architecture, system design & performance**
+- 🎓 Pursuing an **MSc in Computer Science & Engineering**
+- 🧠 Research: **Crime Hotspot Detection — Spatio-Temporal Pattern Recognition**
+- 🤖 Exploring **AI agents & automation** in engineering workflows
 
 <br clear="right"/>
 
@@ -38,146 +45,130 @@ I'm a **Senior Software Engineer** with **5+ years of professional experience** 
 
 ## 💼 Professional Experience
 
-| Role                         | Company                     | Period              |
-| ---------------------------- | --------------------------- | ------------------- |
-| **Senior Software Engineer** | Technovative Solutions Ltd. | Dec 2025 – Present  |
-| **Senior Software Engineer** | Cosmos Tech Labs            | May 2024 – Nov 2025 |
-| **Senior Software Engineer** | Bloclabs                    | May 2024 – Jul 2025 |
-| **Software Engineer**        | BJIT Group                  | Mar 2021 – May 2024 |
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **Senior Software Engineer** | Technovative Solutions Ltd. | Dec 2025 – Present |
+| **Senior Software Engineer** | Cosmos Tech Labs | May 2024 – Nov 2025 |
+| **Senior Software Engineer** | Bloclabs | May 2024 – Jul 2025 |
+| **Software Engineer** | BJIT Group | Mar 2021 – May 2024 |
 
-### What I Work With Professionally
+<details>
+<summary><b>🔍 What I work with professionally</b> (click to expand)</summary>
+<br/>
 
-**Frontend Engineering**
-React, Next.js, TypeScript, Redux Toolkit, Zustand, Tailwind CSS, Material UI, Ant Design, React Hook Form, Zod
+**Frontend** — React, Next.js, TypeScript, Redux Toolkit, Zustand, Tailwind CSS, Material UI, Ant Design, React Hook Form, Zod
+**Backend** — Node.js, Express.js, NestJS, REST APIs, authentication, background jobs, integrations
+**Data & Storage** — PostgreSQL, MongoDB, Prisma, Sequelize, Redis
+**Cloud & DevOps** — AWS, Docker, Nginx, PM2, CI/CD, Vercel, Firebase, monitoring
+**Practices** — Reusable architecture, testing, debugging, performance optimization, documentation, code review
 
-**Backend Engineering**
-Node.js, Express.js, NestJS, REST APIs, authentication, background jobs and integrations
-
-**Data & Storage**
-PostgreSQL, MongoDB, Prisma, Sequelize, Redis
-
-**Cloud & DevOps**
-AWS, Docker, Nginx, PM2, CI/CD, Vercel, Firebase, monitoring and deployment
-
-**Engineering Practices**
-Reusable architecture, API integration, testing, debugging, performance optimization, documentation and code review
+</details>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+<p align="center"><b>Frontend</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,sass&perline=10" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,sass" />
-</p>
+<p align="center"><b>Backend & Database</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,prisma&perline=10" /></p>
 
-### Backend & Database
+<p align="center"><b>Cloud, DevOps & Tools</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,githubactions,vercel,firebase,postman&perline=10" /></p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,prisma" />
-</p>
+<p align="center"><b>Data Science & ML — currently learning</b></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp&perline=10" /></p>
 
-### Cloud, DevOps & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,githubactions,vercel,firebase,postman" />
-</p>
-
-### Data Science & Machine Learning — Current Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp" />
-</p>
-
-> My primary professional identity is **Software Engineering**.
-> Data Science, Machine Learning and Pattern Recognition are areas I am actively learning and applying through my MSc studies and research projects.
+> My primary professional identity is **Software Engineering**. Data Science, ML and Pattern Recognition are areas I'm actively learning through my MSc studies and research.
 
 ---
 
 ## 🚀 Featured Engineering Work
 
-### 🧠 Crime Hotspot Detection — Spatio-Temporal Pattern Recognition
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An MSc research-oriented full-stack project that analyzes historical crime data using symbolic sequences, grammar-based pattern recognition, contextual features and explainable risk indicators.
+### 🧠 Crime Hotspot Detection
+Spatio-temporal pattern recognition on historical crime data using symbolic sequences, grammar-based patterns and explainable risk indicators.
 
-**Tech:** Next.js • TypeScript • FastAPI • Python • Data Analysis • Pattern Recognition • Visualization
+`Next.js` `TypeScript` `FastAPI` `Python`
 
-[Frontend Repository](https://github.com/TanjilaShamima/crime-hotspot-detect-frontend) ·
-[Backend & Research Repository](https://github.com/TanjilaShamima/crime-hotspot-detect-backend)
+[Frontend](https://github.com/TanjilaShamima/crime-hotspot-detect-frontend) · [Backend & Research](https://github.com/TanjilaShamima/crime-hotspot-detect-backend)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ Parallel Server Log Analyzer
+Compares sequential vs parallel server-log processing with Node.js worker threads, benchmarking and live SSE observability.
 
-A full-stack performance-analysis system that compares sequential and parallel server-log processing using Node.js worker threads.
+`Next.js` `Node.js` `Worker Threads` `SSE`
 
-**Tech:** Next.js • TypeScript • Node.js • Express • Worker Threads • Benchmarking • SSE • Observability
+[Frontend](https://github.com/TanjilaShamima/parallel-server-log-analyzer-fe) · [Backend](https://github.com/TanjilaShamima/parallel-server-log-analyzer-be)
 
-[Frontend Repository](https://github.com/TanjilaShamima/parallel-server-log-analyzer-fe) ·
-[Backend Repository](https://github.com/TanjilaShamima/parallel-server-log-analyzer-be)
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 Backend Authentication Service
+Authentication and user management with Node.js, Express, PostgreSQL and AWS S3.
 
-A backend-focused authentication and user-management implementation using Node.js, Express, PostgreSQL and AWS S3.
-
-**Tech:** Node.js • Express • PostgreSQL • Authentication • AWS S3 • REST API
+`Node.js` `Express` `PostgreSQL` `AWS S3`
 
 [View Repository](https://github.com/TanjilaShamima/BE-Auth-Service-Express-Node-Js-postgres-S3)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Machine Learning Journey
+Structured learning repo covering ML concepts, data analysis, model evaluation and experiments alongside my MSc.
 
-A structured learning repository covering machine-learning concepts, data analysis, model evaluation and practical experimentation alongside my MSc studies.
+`Python` `ML` `Data Analysis`
 
 [View Repository](https://github.com/TanjilaShamima/machine-learning-journey)
 
----
-
-## 🎯 Current Professional Focus
-
-```text
-Primary
-├── Software Engineering
-│   ├── React / Next.js / TypeScript
-│   ├── Node.js / Backend APIs
-│   ├── System Design & Architecture
-│   ├── Cloud & DevOps
-│   └── Performance & Production Engineering
-│
-└── Current Academic Growth
-    ├── MSc in Computer Science & Engineering
-    ├── Data Science
-    ├── Machine Learning
-    └── Spatio-Temporal Pattern Recognition
-```
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
 
-* 🥉 **2nd Runner-up** — DIU Intra University Girls Programming Contest
-* 🏅 **6th Position** — DIU Intra University Math Olympiad
-* 💻 Participated in **National Girls Programming Contest**
-* 💻 Participated in **ICPC Mock Contest**
-* 🧠 Solved hundreds of programming problems across multiple online judges
+- 🥉 **2nd Runner-up** — DIU Intra University Girls Programming Contest
+- 🏅 **6th Position** — DIU Intra University Math Olympiad
+- 💻 Participated in **National Girls Programming Contest** & **ICPC Mock Contest**
+- 🧠 Solved hundreds of problems across multiple online judges
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanjilaShamima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+</p>
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TanjilaShamima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="top langs"/>
+</p>
 
-![Tanjila's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanjilaShamima\&show_icons=true\&hide_border=true\&include_all_commits=true\&count_private=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TanjilaShamima&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima\&layout=compact\&hide_border=true\&langs_count=8)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanjilaShamima&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph"/>
+</p>
 
-</div>
-
-> GitHub's native contribution calendar is available directly on my profile below this README.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanjilaShamima/TanjilaShamima/output/github-snake-dark.svg">
+    <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/TanjilaShamima/TanjilaShamima/output/github-snake.svg">
+  </picture>
+</p>
 
 ---
 
@@ -186,25 +177,12 @@ Primary
 I'm open to conversations around **software engineering, scalable web platforms, frontend/backend architecture, cloud systems, AI-assisted development and research-oriented engineering**.
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/tanjila-shamima/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:tanjila.cse.diu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://tanjila-shamima.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
+  <a href="https://www.linkedin.com/in/tanjila-shamima/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:tanjila.cse.diu@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://tanjila-shamima.web.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
----
-
-<div align="center">
-
-### Build reliable software • Keep learning • Solve meaningful problems 🚀
-
-</div>
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:6d28d9,100:0f172a&height=120&section=footer&text=Build%20reliable%20software%20%E2%80%A2%20Keep%20learning&fontSize=20&fontColor=ffffff&fontAlignY=70" width="100%"/>
+</p>
