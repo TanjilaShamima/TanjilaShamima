@@ -152,6 +152,29 @@ Structured learning repo covering ML concepts, data analysis, model evaluation a
   <img src="https://streak-stats.demolab.com?user=TanjilaShamima&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
 </p>
 
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <img width="100%" alt="3D contribution graph" src="./profile-3d-contrib/profile-gitblue.svg">
+  </picture>
+</p>
+
+### 📈 Languages & Coding Habits
+
+<p align="center">
+  <img width="49%" src="./metrics/languages.svg" alt="languages breakdown"/>
+  <img width="49%" src="./metrics/habits.svg" alt="coding habits"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="./metrics/isocalendar.svg" alt="contribution calendar"/>
+  <img width="49%" src="./metrics/achievements.svg" alt="achievements"/>
+</p>
+
+### 🐍 Contribution Snake
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TanjilaShamima/TanjilaShamima/output/github-snake-dark.svg">
