@@ -136,7 +136,7 @@ Structured learning repo covering ML concepts, data analysis, model evaluation a
 - 🥉 **2nd Runner-up** — DIU Intra University Girls Programming Contest
 - 🏅 **6th Position** — DIU Intra University Math Olympiad
 - 💻 Participated in **National Girls Programming Contest** & **ICPC Mock Contest**
-- 🧠 Solved hundreds of problems across multiple online judges
+- 🧠 Solved thousands of problems across multiple online judges
 
 
 ---
