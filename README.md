@@ -1,102 +1,174 @@
-## Hi, I'm Tanjila Akter Shamima! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
 
-[![Twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fshamima_tanjila)](https://twitter.com/shamima_tanjila)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tanjila-shamima/)
-[![GitHub](https://img.shields.io/badge/GitHub-lightgrey?logo=github)](https://github.com/TanjilaShamima)
-[![Email](https://img.shields.io/badge/Email-gray?logo=gmail&style=flat-square)](mailto:tanjila.cse.diu@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-TanjilaShamima-blue)](https://tanjila-shamima.web.app/)
+# Hi, I'm Tanjila Shamima 👋
 
-<strong style="text-align: justify;">
-I'm a skilled and experienced Front-end Developer with expertise in React JS, Next JS, Node JS, Express JS, Typescript, and Web API. With a keen eye for detail and a problem-solving mindset, I have hands-on experience in all levels of testing, including performance, functional, integration, system, and user acceptance testing. I am also proficient in analyzing and designing database structures, making me a well-rounded developer.
+### Senior Software Engineer • Full-Stack Engineer • AI/ML Explorer
 
-I have participated in programming contests and achieved 2nd Runner-up in the DIU Intra University Girls Programming Contest. With several projects under my belt, including a Smart Hospital Management System and an Online Restaurant Application, I am a driven professional who strives to build highly responsive and user-friendly web applications. Contact me today to see how I can help bring your project to life!
-</strong> 
-<br />
-<br />
+Building scalable web applications, backend systems, cloud solutions, and intelligent software.
 
-## Short description
-- 🌱 I'm currently learning Node.js Advanced and Python.
-- 👯 I'm looking to collaborate on interesting projects.
-- 💬 Ask me about front-end development and web technologies.
-- 🥅 2024 Goal: Contribute to open-source projects and continue personal growth.
-- ⚡ Fun Fact: I enjoy solving problems in my free time
-<br />
-<br />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanjila%20Shamima-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tanjila-shamima/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://tanjila-shamima.web.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:tanjila.cse.diu@gmail.com)
 
-## My Expertise area
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-Expert-blue)
-![React](https://img.shields.io/badge/React-Advanced-blueviolet)
-![Next JS](https://img.shields.io/badge/NEXT.js-Expert-blue)
-![Node JS](https://img.shields.io/badge/Node.js-Intermediate-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-success)
-![Firebase](https://img.shields.io/badge/Firebase-Intermediate-yellow)
-![MySQL](https://img.shields.io/badge/MySQL-Basic-orange)
+</div>
 
 <br />
-<br />
 
-## Education
-- Bachelor of Science in Computer Science and Engineering from [Daffodil International University](https://daffodilvarsity.edu.bd/)
-- Studied Science at [Gazipur Govt. Mohila College ](https://daffodilvarsity.edu.bd/)
-- Studied Science at [Joydebpur Govt. Girls High School ](https://daffodilvarsity.edu.bd/)
-<br />
-<br />
+<img align="right" width="220" alt="Tanjila Shamima" src="https://avatars.githubusercontent.com/u/58725488?v=4" />
 
-## Working Place
+## 👩‍💻 About Me
 
-- [Technovative Solutions Ltd](https://technovativesolutions.co.uk/)
-  - Senior Software Engineer
-  - Duration: (1st December, 2025 - Running)
-  <br />
+I'm a **Senior Software Engineer** with 5+ years of professional software development experience, specializing in modern frontend engineering and full-stack web applications.
 
-  
-- [Cosmos Tech Labs](https://cosmostechlabs.com/)
-  - Senior Software Engineer
-  - Duration: (14th May 2024 - 30th November, 2025)
-  <br />
+* 💼 Senior Software Engineer at **Technovative Solutions Ltd.**
+* ⚛️ Strong focus on **React, Next.js, TypeScript, Node.js & scalable web architecture**
+* 🧩 Experienced with **REST APIs, PostgreSQL, MongoDB, authentication & system integration**
+* ☁️ Working with **AWS, Docker, CI/CD, Redis and production deployments**
+* 🤖 Exploring **AI/ML, intelligent systems, AI agents and automation**
+* 🎓 MSc in Computer Science & Engineering
+* 🧠 Interested in **system design, performance optimization, distributed systems and applied research**
+* 🏆 Programming contest & problem-solving background
 
+<br clear="right"/>
 
-- [Bloclabs](https://bloclabs.com/)
-  - Senior Software Engineer
-  - Duration: (16th May 2024 - 31st July 2025)
-  <br />
+---
 
+## 🛠️ Tech Stack
 
-- [BJIt Group](https://www.bjitgroup.com)
-  - Software Engineer
-  - Duration: Around 3 years (22nd March, 2021 - 13th May, 2024)
-  <br />
-  <br />
-## 🚀 My Strengths
-- 👨‍💻 5+ years of experience building scalable web applications using React JS, and NEXT JS.
-- 🔧 Highly skillful in Node JS, Express JS, Nest JS, MongoDB and PostgreSQL.
-- 🌐 Experienced in designing large-scale web systems.
-- 🤖 Pixel Perfect designing skill and expert in row CSS, SCSS, Bootstrap, Tailwind. 
-- 💡 Strong problem-solving and communication skills.
-- 🤝 A collaborative team player committed to delivering high-quality work.
-<br />
-<br />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,materialui,html,css,sass" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,mongodb,redis,prisma" />
+</p>
+
+### Cloud, DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,nginx,git,github,githubactions,vercel,firebase,postman" />
+</p>
+
+### AI / ML & Programming
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp" />
+</p>
+
+---
+
+## 🚀 Featured Engineering Work
+
+### 🧠 Crime Hotspot Detection — Spatio-Temporal Pattern Recognition
+
+A research-oriented full-stack system that analyzes historical crime data using symbolic sequences, grammar-based pattern recognition, contextual features, and explainable risk indicators.
+
+**Tech:** Next.js • TypeScript • FastAPI • Python • Data Analysis • Pattern Recognition • Visualization
+
+🔗 [Frontend Repository](https://github.com/TanjilaShamima/crime-hotspot-detect-frontend)
+🔗 [Backend & Research Repository](https://github.com/TanjilaShamima/crime-hotspot-detect-backend)
+
+---
+
+### ⚡ Parallel Server Log Analyzer
+
+A full-stack performance analysis platform for comparing sequential and parallel server-log processing using Node.js worker threads.
+
+**Tech:** Next.js • TypeScript • Node.js • Express • Worker Threads • Benchmarking • SSE • Observability
+
+🔗 [Frontend Repository](https://github.com/TanjilaShamima/parallel-server-log-analyzer-fe)
+🔗 [Backend Repository](https://github.com/TanjilaShamima/parallel-server-log-analyzer-be)
+
+---
+
+### 🔐 Backend Authentication Service
+
+Backend-focused authentication and user-management implementation using Node.js, Express, PostgreSQL, and AWS S3.
+
+**Tech:** Node.js • Express • PostgreSQL • Authentication • AWS S3 • REST API
+
+🔗 [View Repository](https://github.com/TanjilaShamima/BE-Auth-Service-Express-Node-Js-postgres-S3)
+
+---
+
+### 🤖 Machine Learning Journey
+
+My structured learning and implementation journey across machine learning concepts, data analysis, model evaluation, and practical experimentation.
+
+🔗 [View Repository](https://github.com/TanjilaShamima/machine-learning-journey)
+
+---
+
+## 🎯 Current Focus
+
+```text
+Software Engineering  → Scalable Frontend & Full-Stack Systems
+Backend Engineering   → APIs, Architecture, Performance & Databases
+Cloud & DevOps        → AWS, Docker, Deployment & Monitoring
+AI / ML               → Machine Learning, AI Agents & Automation
+Research              → Pattern Recognition & Intelligent Systems
+```
+
+---
 
 ## 🏆 Achievements
-- 🏆 2nd Runner Up in the DIU Intra University girls Programming Contest.
-- 🏆 6th position in the DIU Intra Math Olympiad.
-- 🗣️ Participated in the National Girls Programming Contest.
-- 🗣️ Participated in ICPC mock contest.
-- 💻 Solved 500+ problems in several online judge platforms like URI, codeforces, UVA, etc.
-<br />
-<br />
 
-## My Stars
-![TanjilaShamima's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanjilaShamima&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima&layout=compact&theme=dark)
+* 🥉 **2nd Runner-up** — DIU Intra University Girls Programming Contest
+* 🏅 **6th Position** — DIU Intra University Math Olympiad
+* 💻 Participated in **National Girls Programming Contest**
+* 💻 Participated in **ICPC Mock Contest**
+* 🧠 Solved hundreds of programming problems across online judges
 
-## Connect with Me
-Want to discuss a potential project or collaboration? Feel free to reach out to me via:
-- 📧 Email: tanjila.cse.diu@gmail.com
-- 💬 LinkedIn: [Connect me](https://www.linkedin.com/in/tanjila-shamima/)
-- 🐦 Twitter: [Visit Here](https://twitter.com/shamima_tanjila)
-- 🌐 Portfolio: [Read More](https://tanjila-shamima.web.app/)
-- 📞 Phone: +8801997412643
+---
 
-Feel free to reach out to me if you have any questions or opportunities for collaboration. Let's connect and build amazing projects together
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanjilaShamima&show_icons=true&hide_border=true&rank_icon=github" alt="Tanjila Shamima GitHub Stats" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima&layout=compact&hide_border=true&langs_count=8" alt="Tanjila Shamima Top Languages" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanjilaShamima&hide_border=true" alt="Tanjila Shamima Contribution Graph" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in software engineering, scalable systems, AI/ML, research-oriented development, and meaningful technical collaboration.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanjila-shamima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:tanjila.cse.diu@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://tanjila-shamima.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### Build • Learn • Improve • Share 🚀
+
+</div>
