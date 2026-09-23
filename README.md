@@ -22,11 +22,7 @@
 <!-- ===================== ABOUT + SKETCH ===================== -->
 ## 👩‍💻 About Me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/sketch-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/sketch-light.png">
-  <img align="right" width="260" src="./assets/sketch-light.png" alt="Tanjila Shamima — pencil sketch">
-</picture>
+<img align="right" width="260" src="./assets/sketch.png" alt="Tanjila Shamima — pencil sketch">
 
 I'm a **Senior Software Engineer** with **5+ years** of professional experience, focused on frontend and full-stack web engineering.
 
@@ -142,25 +138,18 @@ Structured learning repo covering ML concepts, data analysis, model evaluation a
 - 💻 Participated in **National Girls Programming Contest** & **ICPC Mock Contest**
 - 🧠 Solved hundreds of problems across multiple online judges
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanjilaShamima&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
-</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TanjilaShamima&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanjilaShamima&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="top langs"/>
+  <img height="170" src="./profile/stats.svg" alt="stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="top langs"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=TanjilaShamima&theme=tokyonight&hide_border=true&background=0d1117" alt="streak"/>
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TanjilaShamima&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" alt="activity graph"/>
 </p>
 
 <p align="center">
