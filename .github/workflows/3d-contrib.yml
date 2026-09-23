@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "0 18 * * *"   # protidin ekbar
   workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths-ignore:
+      - "profile/**"
+      - "metrics/**"
+      - "profile-3d-contrib/**"
 
 permissions:
   contents: write
@@ -25,4 +31,5 @@ jobs:
           git config user.email "github-actions@users.noreply.github.com"
           git add -A profile-3d-contrib
           git commit -m "Update 3D contribution graph" || exit 0
+          git pull --rebase || true
           git push
