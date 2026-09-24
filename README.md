@@ -24,7 +24,7 @@
 
 <img align="right" width="260" src="./assets/sketch.png" alt="Tanjila Shamima — pencil sketch">
 
-I'm a **Senior Software Engineer** with **5+ years** of professional experience, focused on frontend and full-stack web engineering.
+I'm a **Senior Software Engineer** with **6+ years** of professional experience, focused on frontend and full-stack web engineering.
 
 - 💼 Senior Software Engineer at **Technovative Solutions Ltd.**
 - ⚛️ Strong in **React, Next.js, TypeScript** & modern frontend architecture
