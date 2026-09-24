@@ -47,6 +47,7 @@ I'm a **Senior Software Engineer** with **6+ years** of professional experience,
 | **Senior Software Engineer** | Cosmos Tech Labs | May 2024 – Nov 2025 |
 | **Senior Software Engineer** | Bloclabs | May 2024 – Jul 2025 |
 | **Software Engineer** | BJIT Group | Mar 2021 – May 2024 |
+| **Full Stack Engineer** | Flyte Solutions Ltd | Nov 2020 – Mar 2021 |
 
 <details>
 <summary><b>🔍 What I work with professionally</b> (click to expand)</summary>
